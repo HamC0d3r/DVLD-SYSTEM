@@ -2,9 +2,9 @@
 
 The **DVLD System** is a comprehensive solution designed to manage and streamline the processes related to driver and vehicle licensing. This system provides a robust platform for issuing, renewing, and managing driver licenses, as well as handling various related services such as license replacement, international license issuance, and more.
      
-![Login Interface](Resources/login-interface.png)
+![Login Interface](DVLD/Resources/login-interface.png)
 
-![Dashboard Interface](Resources/dashboard-interface.png)
+![Dashboard Interface](DVLD/Resources/dashboard-interface.png)
 
 ## Table of Contents
 
