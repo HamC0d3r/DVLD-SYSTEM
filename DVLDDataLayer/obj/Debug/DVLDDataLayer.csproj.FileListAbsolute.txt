@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive - AHU\Desktop\19\DVLDDataLayer\bin\Debug\DVLDDataLayer.dll
+C:\Users\User\OneDrive - AHU\Desktop\19\DVLDDataLayer\bin\Debug\DVLDDataLayer.pdb
+C:\Users\User\OneDrive - AHU\Desktop\19\DVLDDataLayer\obj\Debug\DVLDDataLayer.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - AHU\Desktop\19\DVLDDataLayer\obj\Debug\DVLDDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - AHU\Desktop\19\DVLDDataLayer\obj\Debug\DVLDDataLayer.dll
+C:\Users\User\OneDrive - AHU\Desktop\19\DVLDDataLayer\obj\Debug\DVLDDataLayer.pdb
+C:\Users\User\OneDrive - AHU\Desktop\19\DVLDDataLayer\bin\Debug\DVLDDataLayer.dll.config
+C:\Users\User\OneDrive - AHU\Desktop\GITHUB PROJECT\DVLD\DVLDDataLayer\bin\Debug\DVLDDataLayer.dll.config
+C:\Users\User\OneDrive - AHU\Desktop\GITHUB PROJECT\DVLD\DVLDDataLayer\bin\Debug\DVLDDataLayer.dll
+C:\Users\User\OneDrive - AHU\Desktop\GITHUB PROJECT\DVLD\DVLDDataLayer\bin\Debug\DVLDDataLayer.pdb
+C:\Users\User\OneDrive - AHU\Desktop\GITHUB PROJECT\DVLD\DVLDDataLayer\obj\Debug\DVLDDataLayer.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - AHU\Desktop\GITHUB PROJECT\DVLD\DVLDDataLayer\obj\Debug\DVLDDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - AHU\Desktop\GITHUB PROJECT\DVLD\DVLDDataLayer\obj\Debug\DVLDDataLayer.dll
+C:\Users\User\OneDrive - AHU\Desktop\GITHUB PROJECT\DVLD\DVLDDataLayer\obj\Debug\DVLDDataLayer.pdb

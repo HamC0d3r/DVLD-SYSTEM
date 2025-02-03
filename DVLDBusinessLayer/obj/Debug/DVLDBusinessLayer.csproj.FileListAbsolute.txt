@@ -1,0 +1,20 @@
+C:\Users\User\OneDrive - AHU\Desktop\19\DVLDBusinessLayer\bin\Debug\DVLDBusinessLayer.dll
+C:\Users\User\OneDrive - AHU\Desktop\19\DVLDBusinessLayer\bin\Debug\DVLDBusinessLayer.pdb
+C:\Users\User\OneDrive - AHU\Desktop\19\DVLDBusinessLayer\bin\Debug\DVLDDataLayer.dll
+C:\Users\User\OneDrive - AHU\Desktop\19\DVLDBusinessLayer\bin\Debug\DVLDDataLayer.pdb
+C:\Users\User\OneDrive - AHU\Desktop\19\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - AHU\Desktop\19\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - AHU\Desktop\19\DVLDBusinessLayer\obj\Debug\DVLDBusi.7D6D57CA.Up2Date
+C:\Users\User\OneDrive - AHU\Desktop\19\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.dll
+C:\Users\User\OneDrive - AHU\Desktop\19\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.pdb
+C:\Users\User\OneDrive - AHU\Desktop\19\DVLDBusinessLayer\bin\Debug\DVLDDataLayer.dll.config
+C:\Users\User\OneDrive - AHU\Desktop\GITHUB PROJECT\DVLD\DVLDBusinessLayer\bin\Debug\DVLDBusinessLayer.dll
+C:\Users\User\OneDrive - AHU\Desktop\GITHUB PROJECT\DVLD\DVLDBusinessLayer\bin\Debug\DVLDBusinessLayer.pdb
+C:\Users\User\OneDrive - AHU\Desktop\GITHUB PROJECT\DVLD\DVLDBusinessLayer\bin\Debug\DVLDDataLayer.dll
+C:\Users\User\OneDrive - AHU\Desktop\GITHUB PROJECT\DVLD\DVLDBusinessLayer\bin\Debug\DVLDDataLayer.pdb
+C:\Users\User\OneDrive - AHU\Desktop\GITHUB PROJECT\DVLD\DVLDBusinessLayer\bin\Debug\DVLDDataLayer.dll.config
+C:\Users\User\OneDrive - AHU\Desktop\GITHUB PROJECT\DVLD\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - AHU\Desktop\GITHUB PROJECT\DVLD\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - AHU\Desktop\GITHUB PROJECT\DVLD\DVLDBusinessLayer\obj\Debug\DVLDBusi.7D6D57CA.Up2Date
+C:\Users\User\OneDrive - AHU\Desktop\GITHUB PROJECT\DVLD\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.dll
+C:\Users\User\OneDrive - AHU\Desktop\GITHUB PROJECT\DVLD\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.pdb
