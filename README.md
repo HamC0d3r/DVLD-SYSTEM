@@ -85,9 +85,9 @@ The DVLD System supports the following services:
 ## System Requirements
 
 - **Programming Language:** C#
-- **Database:** [Specify the database, e.g., SQL Server, MySQL]
-- **Framework:** [Specify the framework, e.g., .NET, ASP.NET]
-- **Operating System:** Windows, Linux, or macOS (depending on the framework)
+- **Database:** [Specify the database SQL Server]
+- **Framework:** [Specify the framework .NET]
+- **Operating System:** Windows (depending on the framework)
 
 ## Installation
 
