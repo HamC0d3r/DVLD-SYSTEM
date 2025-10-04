@@ -1,103 +1,143 @@
 # Driving & Vehicle License Department (DVLD) System
 
-The **DVLD System** is a comprehensive solution designed to manage and streamline the processes related to driver and vehicle licensing. This system provides a robust platform for issuing, renewing, and managing driver licenses, as well as handling various related services such as license replacement, international license issuance, and more.
+A C# Windows Forms application designed to manage **driving licenses, drivers, users, and related operations**.  
+The system helps handle license issuance, detention, release, and tracking with an integrated database.  
+
+
      
 ![Login Interface](DVLD/Resources/login-interface.png)
 
 ![Dashboard Interface](DVLD/Resources/dashboard-interface.png)
 
-## Table of Contents
+## 🚀 Features  
 
-- [Features](#features)
-- [Services Provided](#services-provided)
-- [System Requirements](#system-requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+### 🔑 License Services
+- Issue a driving license for the first time (with license categories & validation).  
+- Retake tests (vision, theory, and practical driving) if failed.  
+- Renew expired driving licenses (with required checks).  
+- Replace a lost license (issue new license after validation).  
+- Replace a damaged license (with proper tracking).  
+- Release a detained license (after paying fines).  
+- Issue international driving licenses (valid only for eligible categories).  
 
-## Features
+---
 
-The DVLD System offers the following key features:
+## 📋 License Application Management
+- Create and manage service requests with:  
+  - Application number & date  
+  - Applicant’s personal information (linked by National ID)  
+  - Service type (first-time license, renewal, replacement, etc.)  
+  - Application status (New, Canceled, Completed)  
+  - Fees paid  
+- Prevent duplicate or conflicting applications.  
+- Ensure applicant eligibility based on **age, license class rules, and existing licenses**.  
 
-1. **Driver License Management:**
-   - Issue new driver licenses for different vehicle categories.
-   - Renew expired driver licenses.
-   - Replace lost or damaged licenses.
-   - Issue international driver licenses.
-   - Manage license holds and releases.
+---
 
-2. **Applicant Management:**
-   - Store and manage applicant information, including national ID, full name, date of birth, address, phone number, email, nationality, and photo.
-   - Ensure no duplicate entries for applicants using their national ID.
+## 🚗 License Categories (Classes)
+Supports **7 categories**:  
+1. Small motorcycles  
+2. Heavy motorcycles  
+3. Regular car license  
+4. Commercial license (taxi/limousine)  
+5. Agricultural vehicles  
+6. Small/medium buses  
+7. Trucks & heavy vehicles  
 
-3. **Application Management:**
-   - Submit and track applications for various services.
-   - Manage application status (new, processed, completed).
-   - Filter applications based on their status.
+Each category has rules for:  
+- Minimum age  
+- Fees  
+- Validity period  
 
-4. **Testing and Examination:**
-   - Schedule and manage medical, theoretical, and practical driving tests.
-   - Record test results and fees.
-   - Allow retakes for failed tests with additional fees.
+✅ The system checks if an applicant meets requirements before issuing the license.  
 
-5. **License Categories:**
-   - Manage different license categories (e.g., motorcycles, cars, commercial vehicles, agricultural vehicles, buses, trucks).
-   - Set minimum age requirements, validity periods, and fees for each category.
+---
 
-6. **User and Admin Management:**
-   - Add, modify, and delete system users.
-   - Assign permissions and roles to users.
-   - Track user activities and changes made in the system.
+## 🧾 Tests & Exams
+- **Vision Test** (must pass before other exams).  
+- **Theoretical Test** (traffic rules, safety, scored out of 100).  
+- **Practical Driving Test** (based on license category).  
 
-7. **Reporting and Search:**
-   - Search for licenses, applicants, and applications using national ID or license number.
-   - Generate reports on issued licenses, pending applications, and test results.
+Each test includes:  
+- Fee  
+- Scheduled date  
+- Result (Pass/Fail)  
 
-8. **Fees and Payments:**
-   - Manage fees for different services (e.g., license issuance, renewals, replacements, tests).
-   - Track payments made by applicants.
+📌 Applicants must pass tests **in sequence**.  
+❌ Failed applicants can **reschedule** after paying fees again.  
 
-## Services Provided
+---
 
-The DVLD System supports the following services:
+## 👤 Person Management
+- Manage all applicants and drivers in the system.  
+- Prevent duplicate entries by National ID.  
+- Store detailed info:  
+  - National ID  
+  - Full name  
+  - Date of birth  
+  - Address  
+  - Phone number  
+  - Email  
+  - Nationality  
+  - Profile photo  
 
-1. **New License Issuance:**
-   - Applicants can apply for a new driver license in one of the available categories.
-   - The system ensures the applicant meets the age and eligibility requirements.
+---
 
-2. **License Renewal:**
-   - Renew expired driver licenses after passing a vision test.
+## 👥 User Management (System Users)
+- Add, edit, delete, or freeze user accounts.  
+- Assign permissions/roles.  
+- Link each system user to a person in the system.  
+- User credentials: **username + password**.  
 
-3. **License Replacement:**
-   - Issue replacement licenses for lost or damaged licenses.
+---
 
-4. **International License Issuance:**
-   - Issue international driver licenses for eligible applicants (only for Category 3 licenses).
+## 📑 Requests & Applications
+- Search by application number or applicant’s National ID.  
+- View all applications with status & fees.  
+- Filter by status (New, Completed, Canceled).  
+- Link requests to applicants and services.  
 
-5. **Test Retakes:**
-   - Allow applicants to retake failed tests (medical, theoretical, or practical) by scheduling new appointments.
+---
 
-6. **License Hold and Release:**
-   - Manage license holds and releases after payment of fines.
+## 🧾 Tests Management
+- Fixed test types: Vision, Theory, Practical.  
+- Only **fees** are editable.  
 
-## System Requirements
+---
 
-- **Programming Language:** C#
-- **Database:** [Specify the database SQL Server]
-- **Framework:** [Specify the framework .NET]
-- **Operating System:** Windows (depending on the framework)
+## 🪪 License Management
+- Issue licenses (new, renewal, replacement).  
+- Manage detained licenses:  
+  - Record detention details (reason, fine, date).  
+  - Track release after fine payment.  
+- Search licenses by **license number** or **National ID**.  
+- Track all licenses historically (no overwriting).  
 
-## Installation
+---
 
-To set up the DVLD System locally, follow these steps:
+## ⚙️ System Administration
+- Manage license categories (edit age, validity, fees).  
+- Track all system actions with **user ID & timestamp**.  
 
-1. **Clone the repository:**
+---
+
+## 🛠️ Built With
+- **C# .NET (Windows Forms)**  
+- **SQL Server** (for database management)  
+- **Entity Framework / ADO.NET** (for database connectivity)  
+- **Visual Studio** (for development)  
+- **3-Tier Architecture** (UI Layer, Business Logic Layer, Data Access Layer)  
+
+---
+
+
+## ⚙️ Setup & Installation
+1. Clone the repository:
    ```bash
-   git clone https://github.com/HamzaUpgrade/DLVD-SYSTEM.git
-   cd DLVD-SYSTEM
-   ```
-2. **Restore the DVLD.bak on SQL Server**
+   git clone https://github.com/IslamTaleb11/dvld-license-management.git
 
-3. **Open the DLVD_Project.sln file using Visual Studio**
+2. Open the solution in Visual Studio.
+
+3. Configure the SQL Server connection string in the clsDataAccessLayerSettings class.
+
+4. Build and run the project.
