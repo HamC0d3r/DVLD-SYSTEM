@@ -124,7 +124,7 @@ Each test includes:
 ## 🛠️ Built With
 - **C# .NET (Windows Forms)**  
 - **SQL Server** (for database management)  
-- **Entity Framework / ADO.NET** (for database connectivity)  
+- **ADO.NET** (for database connectivity)  
 - **Visual Studio** (for development)  
 - **3-Tier Architecture** (UI Layer, Business Logic Layer, Data Access Layer)  
 
@@ -134,7 +134,7 @@ Each test includes:
 ## ⚙️ Setup & Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/IslamTaleb11/dvld-license-management.git
+   git clone https://github.com/HamC0d3r/DVLD-SYSTEM.git
 
 2. Open the solution in Visual Studio.
 
